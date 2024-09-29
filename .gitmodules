@@ -1,0 +1,3 @@
+[submodule "content/ineffableNotes"]
+	path = content/ineffableNotes
+	url = https://github.com/ChiareDaze/Ineffable-Notes
