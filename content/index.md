@@ -1,3 +1,8 @@
+---
+title: Welcome to my Ineffable Notes
+description: Ciao, sono Chiara e sono una studentessa di informatica. Qui troverete i miei appunti universitari e su altri argomenti che mi piacciono (sempre che mi ricordi di aggiornare il sito o che windows non faccia casini con quartz).
+---
+
 Ciao, sono Chiara e sono una studentessa di informatica. Qui troverete i miei appunti universitari e su altri argomenti che mi piacciono (sempre che mi ricordi di aggiornare il sito o che windows non faccia casini con quartz).
 
 ![[Index_Image.gif]]
