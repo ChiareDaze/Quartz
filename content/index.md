@@ -16,6 +16,8 @@ Ciao, sono Chiara e sono una studentessa di informatica. Qui troverete i miei ap
 - [[Architettura degli elaboratori]]
 - [[Metodologie di programmazione]]
 
+> Le altre materie del primo anno stanno su carta, prima o poi metterò i pdf
+
 **Secondo anno**
 - [[Basi di dati I]]
 - [[Basi di dati II]]
@@ -29,6 +31,8 @@ Ciao, sono Chiara e sono una studentessa di informatica. Qui troverete i miei ap
 - [[Ingegneria del software]]
 - [[Automi]]
 - [[Data science e diritto]]
+- [[Sicurezza]]
+- [[AI Lab]]
 
 >Per qualsiasi cosa mancante o non sistemata, consiglio di vedere gli appunti dei miei pasticcini alla crema [Matteo](https://notesinpublic.xyz/) e [Alessio](https://alem1105.github.io/Quartz/)
 
